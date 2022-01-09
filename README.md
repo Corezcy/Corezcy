@@ -1,4 +1,4 @@
-### Hi there 👋, I’m currently focusing on [apollo](https://github.com/ApolloAuto/apollo), autonomous-driving!
+### Hi there 👋, I’m currently focusing on [autonomous-driving](https://github.com/ApolloAuto/apollo) !
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Corezcy&count_private=true&show_icons=true">
