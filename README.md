@@ -1,4 +1,4 @@
-### Hi there 👋, I’m currently focusing on [nothing](https://github.com/ApolloAuto/apollo) !
+### Hi there 👋, I’m currently focusing on [nothing](null) !
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Corezcy&count_private=true&show_icons=true&theme=radical">
